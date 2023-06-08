@@ -1,0 +1,15 @@
+/* main colors  */
+.bg-dark {
+	background-color: #28293E;
+}
+.bg-light {
+	background-color: #FDF0E9;
+}
+/* grid */
+.col-5 {
+	width: 50%;
+	display: inline-block;
+}
+.col-3 {
+	width: 33.33%;
+}
