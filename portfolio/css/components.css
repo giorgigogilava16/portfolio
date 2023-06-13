@@ -1,0 +1,33 @@
+/* main colors  */
+.bg-dark {
+	background-color: #28293E;
+}
+.bg-light {
+	background-color: #FDF0E9;
+}
+/* grid */
+.col-5 {
+	width: 100%;
+	display: inline-block;
+}
+.col-3 {
+	width: 33.33%;
+}
+.names {
+	color: #EF6D58;
+}
+.para {
+	color: #FFFFFFA3;
+}
+.main-menu {
+	color: #FFFFFF;
+}
+
+
+top: 0px;
+left: 0px;
+width: 1440px;
+height: 880px;
+
+
+

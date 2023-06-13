@@ -1,0 +1,71 @@
+body {
+	font-family: 'Epilogue', sans-serif;
+	font-weight: 400;
+	font-family: hepta slab
+}
+header {
+	padding-top: 16px;
+	background-color: #28293E;
+	display: flex;justify-content: space-between;
+}
+.container {
+	padding-left: 135px;
+	padding-right: 135px;
+}
+.logo img {
+	width: 160px;
+}
+.logo, .main-menu {
+	display: inline-block;
+	vertical-align: middle;
+	width: 50%;
+}
+.main-menu {
+	/*text-align: right;*/
+	color: #FFFFFF;
+}
+.main-menu li {
+	display: inline-block;
+	margin: 0 10px;
+}
+#banner {
+	color: #ffffff;
+	padding-top: 120px;
+	padding-bottom: 139px;
+}
+.banner-image, .banner-text {
+	vertical-align: middle;
+
+}
+.banner-text {
+	padding-right: 40px;
+}
+.banner-text h1 {
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 3px;
+	line-height: 36px;
+	text-transform: uppercase;
+}
+/* flex items */
+.flex {
+	display: flex;
+}
+.flex-item-center{
+	display: flex;
+
+}
+.main-menu ul{
+	display: inline-block;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.main-menu {
+	text-align: center;
+}
+.main-menu a {
+	text-decoration: none;
+}
+
+
